@@ -1,0 +1,24 @@
+name: bootcamp
+channels:
+  - conda-forge
+  - fastchan
+dependencies:
+  - python=3.10
+  - pip
+  - fastcore
+  - fastprogress
+  - numpy
+  - pandas
+  - polars
+  - matplotlib
+  - scikit-learn
+  - pytorch::pytorch
+  - pytorch::cpuonly
+  - accelerate
+  - datasets
+  - diffusers
+  - evaluate
+  - sentencepiece
+  - tokenizers
+  - pip:
+      - gaspard
