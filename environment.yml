@@ -1,7 +1,7 @@
 name: bootcamp
 channels:
   - conda-forge
-  - fastchan
+  - fastai
 dependencies:
   - python=3.10
   - pip
