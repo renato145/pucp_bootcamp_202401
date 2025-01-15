@@ -7,13 +7,16 @@ dependencies:
   - pip
   - fastcore
   - fastprogress
+  - fastai
   - numpy
   - pandas
   - polars
   - matplotlib
   - scikit-learn
+  - ntlk
   - pytorch::pytorch
   - pytorch::pytorch-cuda=12.1 # or your compatible cuda version here
+  - transformers
   - accelerate
   - datasets
   - diffusers

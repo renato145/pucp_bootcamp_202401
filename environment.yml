@@ -7,13 +7,16 @@ dependencies:
   - pip
   - fastcore
   - fastprogress
+  - fastai
   - numpy
   - pandas
   - polars
   - matplotlib
   - scikit-learn
+  - ntlk
   - pytorch::pytorch
   - pytorch::cpuonly
+  - transformers
   - accelerate
   - datasets
   - diffusers
