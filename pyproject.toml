@@ -1,0 +1,13 @@
+[project]
+name = "pucp-bootcamp"
+version = "0.1.0"
+description = "Fundamentos de procesamiento de lenguaje natural"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.4",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "polars>=1.31.0",
+]
