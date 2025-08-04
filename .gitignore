@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 nbs/outputs/
 nbs/models
+nbs/06_embs.npy
