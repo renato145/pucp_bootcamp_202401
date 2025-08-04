@@ -11,7 +11,8 @@ dependencies = [
   "einops>=0.8.1",
   "evaluate>=0.4.5",
   "faiss-cpu>=1.11.0.post1",
-  "fastai>=2.8.2",
+  "fastai==2.7.19",
+  "google-genai>=1.28.0",
   "hdbscan>=0.8.40",
   "ipywidgets>=8.1.7",
   "llvmlite>=0.44.0",
@@ -22,7 +23,7 @@ dependencies = [
   "plotly[express]>=6.2.0",
   "polars>=1.31.0",
   "scikit-learn>=1.7.1",
-  "torch>=2.7.1",
+  "torch==2.6",
   "transformers>=4.54.1",
   "umap-learn>=0.5.9",
 ]
