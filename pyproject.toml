@@ -11,7 +11,7 @@ dependencies = [
   "einops>=0.8.1",
   "evaluate>=0.4.5",
   "faiss-cpu>=1.11.0.post1",
-  "fastai==2.7.19",
+  "fastai==2.8.6",
   "google-genai>=1.28.0",
   "hdbscan>=0.8.40",
   "ipywidgets>=8.1.7",
@@ -26,4 +26,5 @@ dependencies = [
   "torch==2.6",
   "transformers>=4.54.1",
   "umap-learn>=0.5.9",
+  "lisette>=0.0.24",
 ]
